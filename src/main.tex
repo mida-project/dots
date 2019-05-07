@@ -1,0 +1,34 @@
+\documentclass{article}
+\usepackage{comment} % enables the use of multi-line comments (\ifx \fi)
+\usepackage{lipsum} %This package just generates Lorem Ipsum filler text.
+\usepackage{fullpage} % changes the margin
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{plotmarks}
+
+\graphicspath{{images/}}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=cyan,
+    citecolor=black,
+}
+
+\begin{document}
+% Header-Make sure you update this information!!!!
+\noindent
+\large
+\textbf{DOTS} \hfill \textbf{Institution} \\
+\normalsize
+\hyperlink{project_link}{Project} \hfill Department \\
+
+\input{sections/scale}
+
+\clearpage
+
+\input{sections/info}
+
+\end{document}
