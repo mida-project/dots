@@ -11,13 +11,14 @@ This repository contains the source for the [Dimensions Of Trust Scale (DOTS)](h
 We kindly ask **scientific works and studies** that make use of this DOTS Survey by citing it in their associated publications. Similarly, we ask **open-source** and **closed-source** works that make use of the DOTS Survey to warn us about this use. You can cite our work using the following BibTeX entry:
 
 ```
-@article{https://doi.org/10.13140/rg.2.2.23078.37448,
-  doi = {10.13140/rg.2.2.23078.37448},
-  url = {http://rgdoi.net/10.13140/RG.2.2.23078.37448},
-  author = {Calisto,  Francisco Maria and Nunes,  Nuno Jardim and Nascimento,  Jacinto C.},
+@article{https://doi.org/10.5281/zenodo.2811347,
+  doi = {10.5281/zenodo.2811347},
+  url = {https://zenodo.org/record/2811347},
+  author = {Calisto,  Francisco Maria},
+  keywords = {dimensions,  trust,  scale,  human-computer interaction},
   language = {en},
-  title = {Dimensions Of Trust Scale (DOTS) Survey},
-  publisher = {University of Lisbon},
+  title = {Dimensions Of Trust Scale (DOTS) LaTeX Version: v1.0.2-alpha},
+  publisher = {Zenodo},
   year = {2019}
 }
 ```
@@ -25,13 +26,15 @@ We kindly ask **scientific works and studies** that make use of this DOTS Survey
 We also propose to cite our [Zenodo](https://zenodo.org) archive, while we are using the registered DOI to track mentions of the source code. You can cite this source code archive using the following BibTeX entry:
 
 ```
-@misc{francisco_maria_calisto_2019_2671717,
+@misc{francisco_maria_calisto_2019_2811347,
   author       = {Francisco Maria Calisto},
-  title        = {mida-project/dots: v1.0.1-alpha},
+  title        = {{Dimensions Of Trust Scale (DOTS) LaTeX Version: 
+                   v1.0.2-alpha}},
   month        = may,
   year         = 2019,
-  doi          = {10.5281/zenodo.2671717},
-  url          = {https://doi.org/10.5281/zenodo.2671717}
+  note         = {See: https://github.com/mida-project/dots},
+  doi          = {10.5281/zenodo.2811347},
+  url          = {https://doi.org/10.5281/zenodo.2811347}
 }
 ```
 
