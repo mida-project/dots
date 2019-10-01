@@ -11,6 +11,20 @@ This repository contains the source for the [Dimensions Of Trust Scale (DOTS)](h
 We kindly ask **scientific works and studies** that make use of this DOTS Survey by citing it in their associated publications. Similarly, we ask **open-source** and **closed-source** works that make use of the DOTS Survey to warn us about this use. You can cite our work using the following BibTeX entry:
 
 ```
+@misc{https://doi.org/10.13140/rg.2.2.23078.37448/1,
+  doi = {10.13140/rg.2.2.23078.37448/1},
+  url = {http://rgdoi.net/10.13140/RG.2.2.23078.37448/1},
+  author = {Calisto,  Francisco Maria and Nunes,  Nuno Jardim and Nascimento,  Jacinto C.},
+  language = {en},
+  title = {Medical Imaging Diagnosis Assistant: Dimensions Of Trust Scale (DOTS) Survey Template File},
+  publisher = {University of Lisbon},
+  year = {2019}
+}
+```
+
+On the same hand, we publish our source code in several citable repositories. The following BiBTeX source can also be cited by:
+
+```
 @article{https://doi.org/10.5281/zenodo.2811347,
   doi = {10.5281/zenodo.2811347},
   url = {https://zenodo.org/record/2811347},
